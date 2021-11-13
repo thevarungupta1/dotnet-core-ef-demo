@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{DE0F3D53-1CF1-4357-B05B-297A0E5F557C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{E0C91382-002B-4A13-8299-2C6025BD2764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0F3D53-1CF1-4357-B05B-297A0E5F557C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0F3D53-1CF1-4357-B05B-297A0E5F557C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0F3D53-1CF1-4357-B05B-297A0E5F557C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0F3D53-1CF1-4357-B05B-297A0E5F557C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C91382-002B-4A13-8299-2C6025BD2764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C91382-002B-4A13-8299-2C6025BD2764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C91382-002B-4A13-8299-2C6025BD2764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C91382-002B-4A13-8299-2C6025BD2764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFAAEE7F-0E57-4776-B38A-E756BB84E813}
+	EndGlobalSection
+EndGlobal
